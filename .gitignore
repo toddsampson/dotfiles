@@ -1,0 +1,13 @@
+# Keep these directories
+
+# Then ignore everything else
+*
+
+# But not these files...
+!.gitconfig
+!.gitignore
+!.ssh/id_rsa.pub
+!.tmux.conf
+!.vimrc
+
+
